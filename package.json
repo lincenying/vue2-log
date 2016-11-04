@@ -1,0 +1,26 @@
+{
+  "name": "vue2-log",
+  "version": "1.0.0",
+  "description": "打印当前实例的数据",
+  "author": "lincenying <lincenying@qq.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lincenying/vue2-log.git"
+  },
+  "keywords": [
+    "vue",
+    "vue2-log"
+  ],
+  "bugs": {
+    "url": "https://github.com/lincenying/vue2-log/issues"
+  },
+  "homepage": "https://github.com/lincenying/vue2-log#readme",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  }
+}
